@@ -34,6 +34,9 @@ public class Main {
         //         System.out.println("Slot " + i + ": " + dvdCollection[i]);
         //     }
         // }
+
+        int capacity = dvdCollection.length;
+        System.out.print("The Array has a capacity of " + capacity);
     }
 }
 
